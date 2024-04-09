@@ -77,6 +77,13 @@
   biography: Gao Liu received the Ph.D. degree in information security from Xidian University, Xi’an, China, in 2022. From September 2018 to December 2018 and November 2019 to March 2021, he was a visiting scholar in Aalto University. At present, he is a research assistant professor with College of Computer Science, Chongqing University. His research interests include security, privacy, and trust management in the next generation mobile communication networks, privacy-preserving verifiable federated learning, network security measurement, data collection, and data aggregation or fusion.
   position: member
 
+- name: Chuan Ma
+  photo: ChuanMa.jpg
+  info: Associate Professor
+  email: chuan [dot] ma [at] cqu [dot] edu [dot] cn
+  biography: Chuan Ma received the B.S. degree from the Beijing University of Posts and Telecommunications, Beijing, China, in 2013 and Ph.D. degree from the University of Sydney, Australia, in 2018. From 2018 to 2022, he worked as a lecturer in the Nanjing University of Science and Technology, and now he is an associated professor at the school of computer science, Chongqing University. He has published more than 40 journal and conference papers, including a best paper in WCNC 2018, and a best paper award in IEEE Signal Processing Society 2022. His research interests include stochastic geometry, wireless caching networks and distributed machine learning, and now focuses on the big data analysis and privacy-preserving.
+  position: member
+  
 - name: Hangcheng Liu
   interests: Artificial Intelligence Security, Multimedia Security
   position: Ph.D.
